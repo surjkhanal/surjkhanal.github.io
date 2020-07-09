@@ -1,3 +1,3 @@
 # surjkhanal.github.io
 
-htpps://surjkhanal.github.io
+https://surjkhanal.github.io
