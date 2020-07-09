@@ -4,6 +4,7 @@
     border: 10px black solid;
 }
 
+
 * {
 
     font-family: 'Caveat', cursive !important;
@@ -109,13 +110,6 @@
 
 
 
-.masthead {
-    padding-top: 4rem;
-    padding-bottom: auto;
-
-}
-
-
 .masthead .masthead-heading {
     font-size: 2.5rem;
     line-height: 1rem;
@@ -126,7 +120,10 @@
 }
 
 .masthead .masthead-avatar {
-    width: 15rem;
+    border: 5px cyan solid;
+    border-radius: 50%;
+    width: 20rem;
+    margin: 4rem;
 }
 
 @media (min-width: 992px) {
@@ -139,6 +136,15 @@
     .masthead .masthead-subheading {
         font-size: 1rem;
     }
+}
+
+
+.ha {
+    height: 100vh;
+}
+
+.hb {
+    height: 100vh;
 }
 
 
@@ -251,6 +257,7 @@ body {
     text-align: left;
     background-color: #fff;
 }
+
 
 
 h1,
