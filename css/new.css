@@ -109,6 +109,13 @@
 
 
 
+.masthead {
+    padding-top: 4rem;
+    padding-bottom: auto;
+
+}
+
+
 .masthead .masthead-heading {
     font-size: 2.5rem;
     line-height: 1rem;
@@ -132,15 +139,6 @@
     .masthead .masthead-subheading {
         font-size: 1rem;
     }
-}
-
-
-.ha {
-    height: 100vh;
-}
-
-.hb {
-    height: 100vh;
 }
 
 
@@ -253,7 +251,6 @@ body {
     text-align: left;
     background-color: #fff;
 }
-
 
 
 h1,
